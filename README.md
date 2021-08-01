@@ -1,6 +1,9 @@
 # EmbC_298062
-|Build|Cppcheck|Codacy|
-|[![Compile-Linux](https://github.com/amulyasingaraju/298062_EmbeddedC/actions/workflows/Compile.yml/badge.svg)](https://github.com/amulyasingaraju/298062_EmbeddedC/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/amulyasingaraju/298062_EmbeddedC/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/amulyasingaraju/298062_EmbeddedC/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1aff6d20ed7049cbaf17cdb8ba953699)](https://www.codacy.com/gh/amulyasingaraju/298062_EmbeddedC/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amulyasingaraju/298062_EmbeddedC&amp;utm_campaign=Badge_Grade)|
+Build | CPPCheck  | Codacy |    
+-------|---------|---------|
+[![Compile-Linux](https://github.com/amulyasingaraju/298062_EmbeddedC/actions/workflows/Compile.yml/badge.svg)](https://github.com/amulyasingaraju/298062_EmbeddedC/actions/workflows/Compile.yml) | [![Cppcheck](https://github.com/amulyasingaraju/298062_EmbeddedC/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/amulyasingaraju/298062_EmbeddedC/actions/workflows/CodeQuality.yml)  |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1aff6d20ed7049cbaf17cdb8ba953699)](https://www.codacy.com/gh/amulyasingaraju/298062_EmbeddedC/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amulyasingaraju/298062_EmbeddedC&amp;utm_campaign=Badge_Grade)
+
+
 ## Contributors 
 
 SF ID. |  Name   |     
