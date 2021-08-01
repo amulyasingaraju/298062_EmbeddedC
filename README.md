@@ -1,4 +1,7 @@
 # EmbC_298062
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/468f8a6c8382480fafc57e0299bc2229)](https://app.codacy.com/gh/amulyasingaraju/298062_EmbeddedC?utm_source=github.com&utm_medium=referral&utm_content=amulyasingaraju/298062_EmbeddedC&utm_campaign=Badge_Grade_Settings)
+
 |Build|Cppcheck|Codacy|
 ||||
 ## Contributors 
